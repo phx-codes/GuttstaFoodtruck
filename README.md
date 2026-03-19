@@ -13,6 +13,6 @@ Detta kommer att bli ett webbprojekt byggt från grunden för en lokal foodtruck
 
 ## 🛠 Teknikstack
 
-* **Frontend:** HTML5, CSS3 (Custom Grid/Flexbox), JavaScript (Vanilla).
+* **Frontend:** HTML5, CSS3, JavaScript. (möjligtvis React Native)
 * **Integrationer:** * Facebook Graph API (för inlägg).
     * Google Maps API / Mapbox (för lokalisering).
